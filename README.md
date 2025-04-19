@@ -27,10 +27,9 @@ The simulation displays the key components (piston, crankshaft, connecting rod, 
 
 1.  **Clone the repository (or download the source code):**
     ```bash
-    git clone <your_repository_url>
-    cd <repository_directory_name>
+    git clone https://github.com/gnurtuv/4-stroke-engine-simulation.git
+    cd 4-stroke-engine-simulation
     ```
-    *(Replace `<your_repository_url>` and `<repository_directory_name>`)*
 
 2.  **Install Pygame:**
     It's recommended to use a virtual environment:
